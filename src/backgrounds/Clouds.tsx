@@ -33,7 +33,7 @@ export function CloudsRight() {
           right: '20%',
           width: 250,
           height: 250,
-          animationDuration: '10s',
+          animationDuration: '5s',
         }}
       />
       <img
