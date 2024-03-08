@@ -53,7 +53,7 @@ export function CloudsRight() {
         src={cloudImage}
         style={{
           position: 'fixed',
-          top: 200,
+          top: 100,
           left: '30%',
           width: 300,
           height: 300,
