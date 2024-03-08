@@ -24,6 +24,6 @@
   }
 
   50% {
-    transform: scale(1.05, 1.05) translateY(-10px);
+    transform: scale(1.05, 1.05) translateY(-20px);
   }
 }
