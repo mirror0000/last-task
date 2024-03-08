@@ -5,7 +5,7 @@
 @keyframes cloud-gelatine {
   from,
   to {
-    transform: scale(1, 1) translateY(0);
+    transform: scale(1, 1) translateY(-10px);
   }
 
   50% {
