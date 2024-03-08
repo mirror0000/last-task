@@ -9,7 +9,7 @@
   }
 
   50% {
-    transform: scale(1.05, 1.05) translateY(-30px);
+    transform: scale(1.05, 1.05) translateY(-20px);
   }
 }
 
@@ -20,10 +20,10 @@
 @keyframes moon-gelatine {
   from,
   to {
-    transform: scale(1, 1) translateY(0);
+    transform: scale(1.1, 1.1) translateY(0);
   }
 
   50% {
-    transform: scale(1.05, 1.05) translateY(-5px);
+    transform: scale(1.07, 1.07) translateY(-7px);
   }
 }
