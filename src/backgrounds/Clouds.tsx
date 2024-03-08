@@ -42,7 +42,7 @@ export function CloudsRight() {
         style={{
           position: 'fixed',
           top: 180,
-          right: '19%',
+          right: '20%',
           width: 150,
           height: 150,
           animationDuration: '3s',
