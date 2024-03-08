@@ -14,7 +14,7 @@ export function CloudsLeft() {
           left: 170,
           width: 150,
           height: 150,
-          animationDuration: '5s',
+          animationDuration: '7s',
         }}
       />
     </div>
