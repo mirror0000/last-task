@@ -10,8 +10,8 @@ export function CloudsLeft() {
         src={cloudImage}
         style={{
           position: 'fixed',
-          top: 50,
-          left: 150,
+          top: 60,
+          left: 170,
           width: 200,
           height: 200,
           animationDuration: '5s',
