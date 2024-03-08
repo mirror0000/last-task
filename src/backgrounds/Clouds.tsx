@@ -54,10 +54,10 @@ export function CloudsRight() {
         style={{
           position: 'fixed',
           top: 100,
-          left: '30%',
+          left: '50%',
           width: 300,
           height: 300,
-          opacity: 0.7,
+          opacity: 0.8,
           animationDuration: '7s',
         }}
       />
