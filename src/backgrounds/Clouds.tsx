@@ -45,7 +45,7 @@ export function CloudsRight() {
           right: '21%',
           width: 150,
           height: 150,
-          animationDuration: '3s',
+          animationDuration: '7s',
         }}
       />
       <img
