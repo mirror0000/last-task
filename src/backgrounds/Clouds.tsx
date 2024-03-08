@@ -12,8 +12,8 @@ export function CloudsLeft() {
           position: 'fixed',
           top: 60,
           left: 170,
-          width: 200,
-          height: 200,
+          width: 150,
+          height: 150,
           animationDuration: '5s',
         }}
       />
