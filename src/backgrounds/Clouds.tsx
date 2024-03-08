@@ -14,7 +14,7 @@ export function CloudsLeft() {
           left: 170,
           width: 150,
           height: 150,
-          animationDuration: '5s',
+          animationDuration: '7s',
         }}
       />
     </div>
@@ -33,7 +33,7 @@ export function CloudsRight() {
           right: '20%',
           width: 250,
           height: 250,
-          animationDuration: '10s',
+          animationDuration: '5s',
         }}
       />
       <img
@@ -42,7 +42,7 @@ export function CloudsRight() {
         style={{
           position: 'fixed',
           top: 180,
-          right: '19%',
+          right: '20%',
           width: 150,
           height: 150,
           animationDuration: '3s',
